@@ -1,0 +1,7 @@
+E:\pdemy\Advanced c#\DelegateBasic\bin\Debug\DelegateBasic.exe.config
+E:\pdemy\Advanced c#\DelegateBasic\bin\Debug\DelegateBasic.exe
+E:\pdemy\Advanced c#\DelegateBasic\bin\Debug\DelegateBasic.pdb
+E:\pdemy\Advanced c#\DelegateBasic\obj\Debug\DelegateBasic.csproj.AssemblyReference.cache
+E:\pdemy\Advanced c#\DelegateBasic\obj\Debug\DelegateBasic.csproj.CoreCompileInputs.cache
+E:\pdemy\Advanced c#\DelegateBasic\obj\Debug\DelegateBasic.exe
+E:\pdemy\Advanced c#\DelegateBasic\obj\Debug\DelegateBasic.pdb
